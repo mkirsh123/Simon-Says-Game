@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+}
+
+.btn{
+  border-radius: 10%;
+  border: 10px solid black;
+  width:200px;
+  height :200px;
+  margin:25px;
+  align-content: center;
+}
+
+.btn-containeer{
+  display: flex;
+  justify-content: center;
+}
+
+.green{
+  background-color: lightgreen;
+}
+
+.pink{
+  background-color: lightpink;
+}
+
+.blue{
+  background-color: lightblue;
+}
+
+.orange{
+  background-color: orange;
+}
+
+.flash{
+  background-color: white;
+}
