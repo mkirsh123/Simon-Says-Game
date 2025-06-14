@@ -43,7 +43,7 @@ While building this project, I:
 
 ## 🚀 How to Run
 
-1. Clone this repository or download the source code.
+1. Clone this repository or download the source code
 2. Open `Simon_game.html` in your browser.
 3. Enjoy the game!
 
